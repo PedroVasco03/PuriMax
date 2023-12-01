@@ -1,0 +1,14 @@
+ul{
+ text-align: center;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+ list-style-type: none;
+ display: inline-block;
+ margin-right: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
